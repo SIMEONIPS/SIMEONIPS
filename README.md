@@ -47,4 +47,7 @@
     <div class="footer">
       2025 © Derechos reservados. <br />
       <a href="https://www.simeon.com.co">www.simeon.com.co</a>
-   
+    </div>
+  </div>
+</body>
+</html>
